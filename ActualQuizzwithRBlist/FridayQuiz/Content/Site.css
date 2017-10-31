@@ -1,0 +1,100 @@
+﻿/* Move down content because we have a fixed navbar that is 50px tall */
+
+
+
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set widths on the form inputs since otherwise they're 100% wide */
+input[type="text"],
+input[type="password"],
+input[type="email"],
+input[type="tel"],
+input[type="select"] {
+    max-width: 280px;
+}
+
+/* Responsive: Portrait tablets and up */
+/* @media screen and (min-width: 768px) {
+    .jumbotron {
+        margin-top: 20px;
+    }
+    .body-content {
+        padding: 0;
+    }
+}  */
+
+/*bootstrap overrides*/ 
+
+.rbl input[type="radio"]
+{
+   margin-right: 20px;
+}
+
+
+image{
+width: 45%; 
+padding-top: 60px;
+}
+
+
+
+header{
+padding: 5px 10px;
+    background: #1f88f4;
+    color: white; 
+    overflow: auto;
+    font-size: 16px;
+    height: 85px;
+}
+
+body {
+  font-family:Arial;
+  font-size: 15px;
+  line-height: 1.5;
+  color: black;
+  background-color: lightgreen;
+  background-size: cover;
+  background-image: url("https://twitter.com/sportsquizon"); 
+}
+
+.table{
+margin: 20px auto;
+    width: 70%;
+border: medium solid black;
+    background-color: white;
+    opacity: 0.7;
+    padding: 15px;
+    font-weight: 700;
+}
+
+/*footer{
+margin-bottom: 20px;
+background: #1f88f4;
+color: white; 
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 10px;
+padding-right: 10px; 
+overflow: auto;
+font-size: 16px;
+}*/
+
+
+

@@ -1,0 +1,273 @@
+C:\Projects\FridayQuizz\FridayQuizz\bin\ApplicationInsights.config
+C:\Projects\FridayQuizz\FridayQuizz\bin\roslyn\csc.exe
+C:\Projects\FridayQuizz\FridayQuizz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\FridayQuizz\FridayQuizz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\FridayQuizz\FridayQuizz\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\roslyn\vbc.exe
+C:\Projects\FridayQuizz\FridayQuizz\bin\roslyn\VBCSCompiler.exe
+C:\Projects\FridayQuizz\FridayQuizz\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\FridayQuizz\FridayQuizz\bin\FridayQuizz.dll.config
+C:\Projects\FridayQuizz\FridayQuizz\bin\FridayQuizz.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\FridayQuizz.pdb
+C:\Projects\FridayQuizz\FridayQuizz\bin\Antlr3.Runtime.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\AspNet.ScriptManager.jQuery.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\EntityFramework.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\EntityFramework.SqlServer.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.AI.DependencyCollector.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.AI.Web.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.AI.WindowsServer.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.ApplicationInsights.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.Owin.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.Owin.Security.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.Owin.Security.Google.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\Newtonsoft.Json.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\Owin.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\System.Web.Helpers.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\System.Web.Mvc.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\System.Web.Optimization.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\System.Web.Providers.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\System.Web.Razor.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\System.Web.Webpages.Deployment.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\System.Web.Webpages.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\System.Web.Webpages.Razor.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\WebGrease.dll
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.AI.DependencyCollector.xml
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.AI.Web.xml
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.AI.WindowsServer.xml
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.ApplicationInsights.xml
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\FridayQuizz\FridayQuizz\bin\System.Web.Optimization.xml
+C:\Projects\FridayQuizz\FridayQuizz\bin\Antlr3.Runtime.pdb
+C:\Projects\FridayQuizz\FridayQuizz\bin\Newtonsoft.Json.xml
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Projects\FridayQuizz\FridayQuizz\bin\System.Web.Razor.xml
+C:\Projects\FridayQuizz\FridayQuizz\bin\System.Web.Webpages.xml
+C:\Projects\FridayQuizz\FridayQuizz\bin\System.Web.Webpages.Deployment.xml
+C:\Projects\FridayQuizz\FridayQuizz\bin\System.Web.Webpages.Razor.xml
+C:\Projects\FridayQuizz\FridayQuizz\bin\System.Web.Helpers.xml
+C:\Projects\FridayQuizz\FridayQuizz\bin\System.Web.Mvc.xml
+C:\Projects\FridayQuizz\FridayQuizz\bin\EntityFramework.xml
+C:\Projects\FridayQuizz\FridayQuizz\bin\EntityFramework.SqlServer.xml
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Projects\FridayQuizz\FridayQuizz\bin\System.Web.Providers.xml
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.Owin.xml
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.Owin.Security.xml
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.Owin.Security.Google.xml
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Projects\FridayQuizz\FridayQuizz\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Projects\FridayQuizz\FridayQuizz\obj\Debug\FridayQuizz.csprojResolveAssemblyReference.cache
+C:\Projects\FridayQuizz\FridayQuizz\obj\Debug\FridayQuizz.dll
+C:\Projects\FridayQuizz\FridayQuizz\obj\Debug\FridayQuizz.pdb
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\ApplicationInsights.config
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\roslyn\csc.exe
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\roslyn\vbc.exe
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\roslyn\VBCSCompiler.exe
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\FridayQuizz.dll.config
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\FridayQuizz.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\FridayQuizz.pdb
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Antlr3.Runtime.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\AspNet.ScriptManager.jQuery.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\EntityFramework.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\EntityFramework.SqlServer.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.AI.DependencyCollector.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.AI.Web.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.AI.WindowsServer.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.ApplicationInsights.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.Owin.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.Owin.Security.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.Owin.Security.Google.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Newtonsoft.Json.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Owin.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\System.Web.Helpers.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\System.Web.Mvc.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\System.Web.Optimization.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\System.Web.Providers.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\System.Web.Razor.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\System.Web.Webpages.Deployment.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\System.Web.Webpages.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\System.Web.Webpages.Razor.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\WebGrease.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.AI.DependencyCollector.xml
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.AI.Web.xml
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.AI.WindowsServer.xml
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.ApplicationInsights.xml
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\System.Web.Optimization.xml
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Antlr3.Runtime.pdb
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Newtonsoft.Json.xml
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\System.Web.Razor.xml
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\System.Web.Webpages.xml
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\System.Web.Webpages.Deployment.xml
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\System.Web.Webpages.Razor.xml
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\System.Web.Helpers.xml
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\System.Web.Mvc.xml
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\EntityFramework.xml
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\EntityFramework.SqlServer.xml
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\System.Web.Providers.xml
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.Owin.xml
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.Owin.Security.xml
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.Owin.Security.Google.xml
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\obj\Debug\FridayQuizz.csprojResolveAssemblyReference.cache
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\obj\Debug\FridayQuizz.dll
+C:\Projects\Completed projects\QuizzwithRBlist\FridayQuizz\obj\Debug\FridayQuizz.pdb
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\ApplicationInsights.config
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\roslyn\csc.exe
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\roslyn\vbc.exe
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\roslyn\VBCSCompiler.exe
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\FridayQuizz.dll.config
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\FridayQuizz.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\FridayQuizz.pdb
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Antlr3.Runtime.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\AspNet.ScriptManager.jQuery.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\EntityFramework.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\EntityFramework.SqlServer.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.AI.DependencyCollector.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.AI.Web.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.AI.WindowsServer.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.ApplicationInsights.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.Owin.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.Owin.Security.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.Owin.Security.Google.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Newtonsoft.Json.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Owin.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\System.Web.Helpers.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\System.Web.Mvc.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\System.Web.Optimization.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\System.Web.Providers.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\System.Web.Razor.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\System.Web.Webpages.Deployment.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\System.Web.Webpages.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\System.Web.Webpages.Razor.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\WebGrease.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.AI.DependencyCollector.xml
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.AI.Web.xml
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.AI.WindowsServer.xml
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.ApplicationInsights.xml
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\System.Web.Optimization.xml
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Antlr3.Runtime.pdb
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Newtonsoft.Json.xml
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\System.Web.Razor.xml
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\System.Web.Webpages.xml
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\System.Web.Webpages.Deployment.xml
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\System.Web.Webpages.Razor.xml
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\System.Web.Helpers.xml
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\System.Web.Mvc.xml
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\EntityFramework.xml
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\EntityFramework.SqlServer.xml
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\System.Web.Providers.xml
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.Owin.xml
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.Owin.Security.xml
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.Owin.Security.Google.xml
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\obj\Debug\FridayQuizz.csprojResolveAssemblyReference.cache
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\obj\Debug\FridayQuizz.dll
+C:\Projects\Completed projects\ActualQuizzwithRBlist\FridayQuizz\obj\Debug\FridayQuizz.pdb
